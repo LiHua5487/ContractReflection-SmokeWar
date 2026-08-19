@@ -4,6 +4,8 @@
 
 代码由codex完成，可能有一些bug没有完全测试到
 
+使用方式：mod文件夹下的SMOKE_WAR文件夹放到游戏mod文件夹，dll放到plugins文件夹
+
 # 关卡信息
 
 敌人：蟑螂皇帝
